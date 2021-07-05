@@ -3,7 +3,7 @@
 This program is in development....
 I will expand this program to create a surveillance system and create a new repository for it.
 
-##############################################################################################+
+###################################################################################################
 Proposed functionality of the surveillance system:
 
 -> record all keystrokes - implemented
